@@ -1,0 +1,19 @@
+{
+
+	"results": [{
+			"atype": "text",
+			"question": "Choose the Correct spelling",
+			"question_image": "Apple.png",
+			"correct_answer": "Apple",
+			"incorrect_answers": ["Aple", "Applle", "Applle"]
+		},
+		{
+			"atype": "image",
+			"question": "Which is Pomegranate ?",
+			"question_image": "",
+			"correct_answer": "anar.png",
+			"incorrect_answers": ["Apple.png", "Mango.png", "Grapes.png"]
+		}
+
+	]
+}
