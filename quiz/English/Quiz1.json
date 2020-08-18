@@ -5,7 +5,7 @@
 			"question": "Choose the Correct spelling",
 			"question_image": "Apple.png",
 			"correct_answer": "Apple",
-			"incorrect_answers": ["Aple", "Applle", "Applle"]
+			"incorrect_answers": ["Aple", "Aplle", "Applle"]
 		},
 		{
 			"atype": "image",
